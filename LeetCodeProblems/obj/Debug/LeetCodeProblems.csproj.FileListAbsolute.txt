@@ -1,0 +1,7 @@
+C:\Users\mphet\source\home\LeetCodePractice\LeetCodeProblems\bin\Debug\LeetCodeProblems.exe.config
+C:\Users\mphet\source\home\LeetCodePractice\LeetCodeProblems\bin\Debug\LeetCodeProblems.exe
+C:\Users\mphet\source\home\LeetCodePractice\LeetCodeProblems\bin\Debug\LeetCodeProblems.pdb
+C:\Users\mphet\source\home\LeetCodePractice\LeetCodeProblems\obj\Debug\LeetCodeProblems.csproj.AssemblyReference.cache
+C:\Users\mphet\source\home\LeetCodePractice\LeetCodeProblems\obj\Debug\LeetCodeProblems.csproj.CoreCompileInputs.cache
+C:\Users\mphet\source\home\LeetCodePractice\LeetCodeProblems\obj\Debug\LeetCodeProblems.exe
+C:\Users\mphet\source\home\LeetCodePractice\LeetCodeProblems\obj\Debug\LeetCodeProblems.pdb
